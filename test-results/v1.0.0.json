@@ -3,8 +3,8 @@
   "repository_name": "edu-local-market-research",
   "product_type": "Skill",
   "version": "1.0.0",
-  "tested_at": "2026-11-06T21:31:50.1373493+08:00",
-  "tested_tree_sha": "b63845c4db0a62cc40ac9babcd1c5f75b9e5a920",
+  "tested_at": "2026-11-06T21:53:07.9624813+08:00",
+  "tested_tree_sha": "b28d86514e62de34e29ad670847edb1cac63e706",
   "package_path": "dist/edu-local-market-research-v1.0.0.zip",
   "package_sha256": "9C3C1418C4E37C2A76A2CB25ED6A0B62A73E6B757FB7C2204ADDF540B5FF9061",
   "checks": {
