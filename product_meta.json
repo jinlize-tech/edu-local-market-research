@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "product_id": "JLZ-EDU-SK-001",
+  "chinese_name": "本地教培市场调研",
+  "english_name": "Local Market Research",
+  "repository_name": "edu-local-market-research",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-local-market-research-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "调研区域与目标客群、机构课程与价格、可公开获取的竞争机构信息、机构自身优势",
+  "main_output": "竞争机构对照表、客群画像、课程价格带、机会点、信息缺口清单",
+  "package_entries": [
+    "edu-local-market-research/SKILL.md",
+    "edu-local-market-research/references/DOMAIN_GUIDE.md",
+    "edu-local-market-research/references/EXAMPLES.md",
+    "edu-local-market-research/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
