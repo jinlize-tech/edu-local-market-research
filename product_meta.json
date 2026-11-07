@@ -6,19 +6,38 @@
   "repository_name": "edu-local-market-research",
   "product_type": "Skill",
   "category": "01 招生营销中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-local-market-research-v1.0.0.zip",
+  "baseline_commit": "da2affc0e29ec2c0529da6fcf4e6c897c791442c",
+  "package_path": "dist/edu-local-market-research-v1.0.1.zip",
+  "previous_package_path": "dist/edu-local-market-research-v1.0.0.zip",
+  "previous_package_sha256": "9C3C1418C4E37C2A76A2CB25ED6A0B62A73E6B757FB7C2204ADDF540B5FF9061",
   "calculator": false,
   "core_input": "调研区域与目标客群、机构课程与价格、可公开获取的竞争机构信息、机构自身优势",
   "main_output": "竞争机构对照表、客群画像、课程价格带、机会点、信息缺口清单",
+  "main_output_fields": [
+    "竞争机构对照表",
+    "客群画像",
+    "课程价格带",
+    "机会点",
+    "信息缺口清单"
+  ],
   "package_entries": [
     "edu-local-market-research/SKILL.md",
     "edu-local-market-research/references/DOMAIN_GUIDE.md",
     "edu-local-market-research/references/EXAMPLES.md",
-    "edu-local-market-research/templates/OUTPUT_TEMPLATE.md"
+    "edu-local-market-research/templates/OUTPUT_TEMPLATE.md",
+    "edu-local-market-research/README.md",
+    "edu-local-market-research/USAGE.md",
+    "edu-local-market-research/LICENSE",
+    "edu-local-market-research/THIRD_PARTY_NOTICES.md",
+    "edu-local-market-research/scripts/validate_input.js"
   ]
 }
